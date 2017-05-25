@@ -1,0 +1,13 @@
+﻿  rendering_engine.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\rendering_engine.cpp(339): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  physic_engine.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\physic_engine.cpp(143): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\main.cpp(163): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  gamelogic.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\gamelogic.cpp(154): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  asset_manager.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\asset_manager.cpp(175): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ai.cpp
+c:\users\davide\documents\visual studio 2015\projects\kamikaze\kamikaze\ai.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
